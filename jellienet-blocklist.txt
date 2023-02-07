@@ -1,23 +1,23 @@
 # Updated 2023-02-06
 
 # Ads
-https://ads.facebook.com
-https://pagead2.googlesyndication.com
-https://doubleclick.net/
-https://ad.doubleclick.net/
-https://static.doubleclick.net
-https://m.doubleclick.net
-https://mediavisor.doubleclick.net
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonaax.com
-https://ads-api.twitter.com
-https://advertising.twitter.com
-https://ads.pinterest.com
-https://widgets.pinterest.com
-https://ads.reddit.com
-https://ads.youtube.com
+ads.facebook.com
+pagead2.googlesyndication.com
+doubleclick.net/
+ad.doubleclick.net/
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+ads-api.twitter.com
+advertising.twitter.com
+ads.pinterest.com
+widgets.pinterest.com
+ads.reddit.com
+ads.youtube.com
 
 # Tracking
 
